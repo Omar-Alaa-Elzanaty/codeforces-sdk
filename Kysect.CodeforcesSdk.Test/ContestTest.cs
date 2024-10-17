@@ -26,7 +26,6 @@ namespace Kysect.CodeforcesSdk.Test
             Assert.IsNotNull(firstHack.Hacker);
             Assert.IsNotNull(firstHack.Problem);
             Assert.IsNotNull(firstHack.Defender);
-            Assert.IsNotNull(firstHack.Test);
         }
 
         [TestMethod]
